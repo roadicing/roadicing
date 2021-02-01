@@ -1,7 +1,7 @@
 # About me
 
-- A student from University of Chinese Academy of Sciences.
-- A (Rev & Crypto) CTFer from Never Stop Exploiting (a.k.a. NeSE).
+- A student from [University of Chinese Academy of Sciences.](https://www.ucas.ac.cn)
+- A (Rev & Crypto) CTFer from [Never Stop Exploiting](https://ctftime.org/team/13575) (a.k.a. NeSE).
 - Currently mainly focusing on software security and applied cryptography.
 
 <!--
