@@ -1,13 +1,8 @@
-### About me
+# About me
 
-A student from University of Chinese Academy of Sciences.
-
-A (Rev & Crypto) CTFer from Never Stop Exploiting (a.k.a. NeSE).
-
-I'm currently mainly focusing on software security and applied cryptography.
-
-Feel free to contact me via:
-- roadicing@protonmail.com
+- A student from University of Chinese Academy of Sciences.
+- A (Rev & Crypto) CTFer from Never Stop Exploiting (a.k.a. NeSE).
+- Currently mainly focusing on software security and applied cryptography.
 
 <!--
 **roadicing/roadicing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
